@@ -37,7 +37,7 @@ To develop an autonomous surveillance robot capable of detecting intruders or we
 2. Arduino Uno controls motors and ultrasonic sensors for navigation.  
 3. Power is supplied using a battery pack or power bank.  
 
-📄 Refer to [`hardware/circuit_diagram.png`](./hardware/circuit_diagram.png) for full wiring details.
+📄 Refer to [`Hardware/circuit_diagram.png`](./Hardware/circuit_diagram.png) for full wiring details.
 
 ---
 
